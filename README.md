@@ -1,2 +1,2 @@
-# find_number_of_digits_in_a_number_using_Python
+# Find number of digits in a number using Python:
 Python code: Python program to find the total number of digits in a number (2 different ways).
